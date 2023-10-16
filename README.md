@@ -1,7 +1,6 @@
-![Web Developer](https://i.ibb.co/g4B5vLT/IMG-7155.jpg)
-
 ### Hi there 👋, I'm Ain Naharun Jannat Sraboni
 #### Web Developer
+![Web Developer](https://i.ibb.co/k1cG8Tc/IMG-7155.jpg)
 
 As an beginner web developer. I Passionate and motivated beginner web developer with a strong foundation in HTML, CSS, React and JavaScript, eager to contribute to creating impactful and user-friendly websites. With a solid foundation in HTML, CSS, React and JavaScript,Redux,Next.js, I am constantly seeking opportunities to expand my expertise and stay up to date with the latest web development trends.
 
