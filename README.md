@@ -33,4 +33,4 @@ Skills: REACT / JS / HTML / CSS/Redux/Next.js
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Naharun)  
 
-![Profile views](https://gpvc.arturio.dev/Naharun)  
+![Profile views](https://naharunsraboni.netlify.app/)  
