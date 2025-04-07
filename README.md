@@ -32,16 +32,20 @@
 
 ---
 
-## 🚀 Projects
+### 📌 Projects
 
-🪴 [**Plantify**](https://github.com/Naharun/Plantify)  
-A full-stack plant eCommerce site using React, Redux, Express, and MongoDB  
-**Tech Stack:** React · Node.js · MongoDB · Tailwind CSS
+- 🏫 **FU Schedule Management** – A mobile application built with Flutter for managing university schedules  
+  📱 [Download APK (Google Drive)](https://drive.google.com/file/d/1CD_jJKsK-kjsO4wEMLjTUy4vlaqnRjWc/view)
 
-📱 [**University Lab App**](https://github.com/Naharun/UniversityLabApp)  
-Academic mobile projects built using Flutter and React Native
+- 🎮 **GameSpace** – An online sports facility booking platform  
+  💻 [Frontend Repository](https://github.com/Naharun/online-sport-facility-booking-client)  
+  🛠️ [Backend Repository](https://github.com/Naharun/sports-facilities-booking)
 
-🔍 [Explore More Projects »](https://github.com/Naharun?tab=repositories)
+- 🌱 **Plantify** – A full-stack plant eCommerce site built using React, Redux Toolkit, TypeScript, Express, and MongoDB  
+   💻 [Frontend Repository](https://github.com/Naharun/online-nursery-project-client)  
+  🛠️ [Backend Repository](https://github.com/Naharun/online-nursery-project-server)
+
+- 💼 *More Projects Coming Soon!*
 
 ---
 
