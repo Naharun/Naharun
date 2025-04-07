@@ -1,20 +1,53 @@
 ##### Hi there 👋, I'm Ain Naharun Jannat Sraboni
-#### Web Developer
-![Web Developer]
 
-As an beginner web developer. I Passionate and motivated beginner web developer with a strong foundation in HTML, CSS, React and JavaScript, eager to contribute to creating impactful and user-friendly websites. With a solid foundation in HTML, CSS, React and JavaScript,Redux,Next.js, I am constantly seeking opportunities to expand my expertise and stay up to date with the latest web development trends.
+🎓 B.Sc in Computer Science & Engineering  
+📍 Feni University (2022–2025)  
+💻 Passionate Web Developer | Frontend & Backend  
+📱 Basic App Development Skills (Flutter, React Native)
 
 
 
 
-Skills: REACT / JS / HTML / CSS/Redux/Next.js
+---
 
-- 🔭 I’m currently working on Home Management Project 
-- 🌱 I’m currently learning Next.js 
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Web Development 
+### 🛠️ Tech Stack
 
-### My Portfolio Link : https://naharunsraboni.netlify.app/
+**Frontend**:  
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) 
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js)  
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
+
+**Backend & Database**:  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
+![Mongoose](https://img.shields.io/badge/-Mongoose-880000?logo=mongoose&logoColor=white)  
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
+
+**Mobile App (Basic Knowledge)**:  
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) 
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black)
+
+---
+### 📌 Projects
+
+- 🌱 **Plantify** – A full-stack plant eCommerce site built with React, Redux, Express, and MongoDB  
+- 📚 **University Lab App** – Created using Flutter/React Native during my lab sessions  
+- 💼 [More Projects →](#)
+
+---
+
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ain-naharun-jannat-sraboni-099ab82a1/)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=vercel&logoColor=white)](https://naharunsraboni.netlify.app/)  
+[![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white)](mailto:jannatsraboni11@gmail.com)
+
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Naharun)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/jannat.sraboni.7)  
 
