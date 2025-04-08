@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ain Naharun Jannat Sraboni
 
-🎓 B.Sc. in Computer Science & Engineering (2022–2025)  
+🎓 Bachelor of Science in Computer Science & Engineering |2022–2025 
 🏫 Feni University  
 💻 Passionate Full-Stack Web Developer (React, Next.js, Node.js)  
 📱 Basic App Development Knowledge (Flutter & React Native)  
