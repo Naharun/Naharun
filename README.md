@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ain Naharun Jannat Sraboni
 
-🎓 B.Sc. in Computer Science & Engineering — Feni University (2020–2025)
+🎓 B.Sc. in Computer Science & Engineering — Feni University (2022–2025)
 💼 Frontend Developer at **[AlgoHat](https://algohat.com)** — Building for clients across 10+ countries
 💻 Full-Stack Web Developer | React · Next.js · TypeScript · Node.js
 🌱 Always learning, always building!
